@@ -1,0 +1,2 @@
+# SDN-based-QoS-Traffic-Classification-Load-Balancing-for-IoT-Gateway
+This project implements a real-time, QoS-aware traffic classification and load balancing system for IoT gateways using SDN principles. It leverages Mininet for emulation, Ryu controllers for dynamic traffic management, and OpenFlow-enabled switches to prioritize critical IoT data, ensuring scalable and secure network operations.
